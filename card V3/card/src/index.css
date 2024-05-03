@@ -1,0 +1,27 @@
+.card{
+  border: 1px solid rgb(171, 215, 202);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(35, 35, 35);
+  padding: 10px;
+  margin: 100px;
+  text-align: center;
+  height: 300px;
+  width: 700px;
+  max-width: auto;
+  max-height: auto;
+  display: flex;
+}
+h2
+{ 
+  font-family: "Brush Script MT", cursive; font-size: 30px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+}
+.header
+{
+  padding: 10px;
+  margin: 20px;
+  height: 100px;
+}
+.header1
+{
+  height: 175px;
+}
